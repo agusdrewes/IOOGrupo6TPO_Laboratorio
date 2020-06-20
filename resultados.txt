@@ -1,0 +1,1 @@
+[{"resultadoID":"1","practicaID":"1","valor":"1000","descripcion":"Un resultado","estado":"Finalizado"},{"resultadoID":"2","practicaID":"2","valor":"2000","descripcion":"Otro Resultado","estado":"En_Curso"}]

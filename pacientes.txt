@@ -1,0 +1,1 @@
+[{"pacienteID":"1","nombre":"Agustin Drewes","dni":"36595156","domicilio":"Calle Falsa 123","mail":"adrewes@uade.edu.ar","sexo":"Masculino","fechaNacimiento":"13/12/1991"},{"pacienteID":"2","nombre":"Kevin Yao","dni":"30000000","domicilio":"Lima e Independencia","mail":"chyao@uade.edu.ar","sexo":"Masculino","fechaNacimiento":"29/02/1980"}]

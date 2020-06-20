@@ -1,0 +1,1 @@
+[{"peticionID":"2","sucursalID":"2","pacienteID":"2","obraSocial":"OSDE","fchEntrega":"10/07/2020","fchCarga":"10/06/2020","estado":"En_Curso","practicasAsociadas":"Hemograma, Orina","resultados":""}]
